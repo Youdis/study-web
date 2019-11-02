@@ -2,6 +2,7 @@ a:hover {
   width: 400px;
   border: 1px solid black;
   color: black;
+  margin: 0 auto;
 }
 html {
   font-size: 20px; /* px значит 'пиксели': базовый шрифт будет 10 пикселей в высоту  */
